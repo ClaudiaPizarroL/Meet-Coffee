@@ -1,0 +1,41 @@
+body {
+    text-align: left;
+    color: #000f08;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    /* esta es la propiedad que añadimos
+   */
+}
+
+footer {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    background: #000f08;
+    color: white;
+    padding: 20px;
+}
+
+i {
+    font-size: 30px;
+}
+
+header {
+    background-image: url(../img/bg-hero.png)
+    background-position center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: Open sans;
+    text-shadow: 0px 3px 6px black;
+    text-align: right;
+    color: white;
+}
+
+header h2{
+    font-size: 60px;
+   }
+
+header h3{
+    font-size: 40px;
+    font-weight: lighter;
+   }
